@@ -1,0 +1,354 @@
+@media only screen and (max-width:767px) {
+    .ptb-40 {
+        padding-top: 30px;
+        padding-bottom: 30px
+    }
+
+    .header-area {
+        padding-bottom: 20px
+    }
+
+    .top-header {
+        display: none
+    }
+    .single-default-news .news-content {
+        padding: 15px
+    }
+
+    .single-default-news .news-content ul li {
+        margin-right: 15px;
+        font-size: 14px
+    }
+
+    .single-default-news .news-content h3 {
+        font-size: 16px;
+        line-height: 1.6;
+        margin-top: 10px
+    }
+
+    .single-default-news .video-btn {
+        left: auto;
+        right: 20px;
+        top: 20px
+    }
+
+    .single-default-news .video-btn a {
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        font-size: 20px
+    }
+
+    .single-default-news .video-btn a::after {
+        width: 55px;
+        height: 55px
+    }
+
+    .single-default-inner-news {
+        margin-bottom: 30px
+    }
+
+    .single-default-inner-news .news-content h3 {
+        font-size: 16px
+    }
+
+    .section-title {
+        margin-bottom: 20px
+    }
+
+    .section-title h2 {
+        font-size: 20px
+    }
+
+    .section-title .view-more {
+        font-size: 13px
+    }
+
+
+    .categories-list {
+        padding: 15px
+    }
+
+
+
+
+    .fashion-news {
+        margin-bottom: 30px
+    }
+
+    .single-fashion-news .news-content {
+        padding: 15px
+    }
+
+    .single-fashion-news .news-content ul li {
+        margin-right: 15px;
+        font-size: 14px
+    }
+
+    .single-fashion-news .news-content h3 {
+        font-size: 16px;
+        line-height: 1.6;
+        margin-top: 10px
+    }
+
+    .fashion-inner-news .single-fashion-inner-news h3 {
+        font-size: 15px
+    }
+
+    .more-news-area {
+        padding-bottom: 60px
+    }
+
+    .more-news-inner {
+        padding: 20px 10px
+    }
+
+    .single-more-news .news-content {
+        padding: 12px
+    }
+
+    .single-more-news .news-content ul li {
+        margin-right: 13px;
+        font-size: 14px
+    }
+
+    .single-more-news .news-content h3 {
+        margin-top: 10px;
+        font-size: 16px
+    }
+
+
+
+    .single-category-news .category-news-content {
+        padding-left: 0;
+        margin-top: 10px
+    }
+
+    .single-category-news .category-news-content span {
+        font-size: 14px
+    }
+
+    .single-category-news .category-news-content h3 {
+        font-size: 16px;
+        margin-bottom: 0
+    }
+
+    .single-category-news .category-news-content p {
+        display: none
+    }
+
+
+    .widget-area .widget .widget-title {
+        font-size: 20px
+    }
+
+    .widget-area .widget ul li a {
+        font-size: 14px
+    }
+
+    .widget-area .about_me .aboutMe h3 {
+        font-size: 16px;
+        margin-bottom: 10px
+    }
+
+    .widget-area .wiget_posts_thumbs article .info .title {
+        font-size: 14px
+    }
+
+    .widget-area .tagcloud a {
+        font-size: 14px !important
+    }
+
+
+
+    .page-title-content h2 {
+        font-size: 20px
+    }
+
+    .page-title-content ul {
+        position: relative;
+        right: 0;
+        top: 0;
+        -webkit-transform: unset;
+        transform: unset;
+        margin-top: 15px
+    }
+
+    .news-details .article-content {
+        padding: 20px 15px 20px
+    }
+
+    .news-details .article-content .entry-meta li {
+        margin-right: 9px;
+        font-size: 14px
+    }
+
+    .news-details .article-content .entry-meta li i {
+        margin-right: 2px
+    }
+
+    .news-details .article-content h3 {
+        font-size: 17px
+    }
+
+    blockquote {
+        padding: 20px 20px 20px 20px !important
+    }
+
+    blockquote::before {
+        position: relative;
+        left: 0;
+        top: 0
+    }
+
+    blockquote p {
+        font-size: 14px
+    }
+
+
+    .news-details-area .widget-area {
+        margin-top: 30px
+    }
+
+
+
+    .breadcrumb {
+        padding: 15px 20px
+    }
+
+    .contact-form h3 {
+        font-size: 18px;
+        margin-bottom: 20px
+    }
+
+    .footer-area {
+
+    }
+
+    .copyright-area {
+        margin-top: 0;
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 25px
+    }
+
+    .copyright-area p {
+        font-size: 14px
+    }
+
+    .copyright-area .footer-nav {
+        text-align: center;
+        margin: 10px 0 0
+    }
+
+    .copyright-area .footer-nav li a {
+        font-size: 14px
+    }
+
+    .go-top {
+        bottom: 10px;
+        right: 10px;
+        font-size: 17px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .header-area {
+        padding-bottom: 16px
+    }
+
+    .top-header {
+        padding: 10px 0
+    }
+
+    .top-header .header-date {
+        display: none
+    }
+
+    .sinmun-mobile-nav .logo {
+        left: 40px !important
+    }
+
+
+    .small-image-ads {
+        margin-top: 30px
+    }
+
+    .small-image-ads img {
+        width: 100%
+    }
+
+    .popular-section-ads {
+        margin-bottom: 30px;
+        text-align: center
+    }
+
+
+    .single-default-news .video-btn {
+        left: auto;
+        right: 20px;
+        top: 20px
+    }
+
+    .single-default-news .video-btn a {
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        font-size: 20px
+    }
+
+    .single-default-news .video-btn a::after {
+        width: 55px;
+        height: 55px
+    }
+
+    .news-details-area .widget-area {
+        margin-top: 30px
+    }
+
+    .copyright-area {
+        margin-top: 30px;
+        text-align: center
+    }
+
+    .copyright-area .footer-nav {
+        text-align: center;
+        margin-top: 12px
+    }
+
+    .copyright-area .footer-nav li a {
+        font-size: 14px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .sinmun-nav nav .navbar-nav .nav-item .dropdown-menu {
+        left: -15px
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .sinmun-mobile-nav {
+        display: block;
+        position: relative;
+        padding-top: 9px
+    }
+
+    .sinmun-mobile-nav .logo {
+        position: relative;
+        z-index: 9910;
+        left: 15px;
+        width: 60%
+    }
+
+    .sinmun-mobile-nav .logo a {
+        display: inline-block
+    }
+
+    .sinmun-nav {
+        display: none !important
+    }
+}
